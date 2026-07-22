@@ -1,4 +1,4 @@
-export const GENRES = ['Action', 'Crime', 'Drama', 'Romance', 'Sci-Fi', 'Thriller', 'Comedy', 'Adventure', 'War', 'Mystery', 'Horror', 'Animation']
+export const GENRES = ['Action', 'Crimen', 'Dramas', 'Romance', 'Sci-Fi', 'Thriller', 'Comedy', 'Adventure', 'War', 'Mystery', 'Horror', 'Animation']
 
 const img = (id) =>
   `https://images.unsplash.com/${id}?w=400&h=580&fit=crop&auto=format`
